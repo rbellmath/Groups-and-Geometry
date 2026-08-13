@@ -62,6 +62,8 @@
     <chapter xml:id="homework">
       <title>Homework</title>
 
+      <p>This is a paragraph with <m>M^at_h</m>.</p>
+
       <!-- Include homework files -->
       <!--<xi:include href="./homework/homework01.ptx"/>-->
 
