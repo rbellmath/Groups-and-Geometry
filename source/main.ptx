@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- This is the main course file for ... . It is used to generate all the public facing course materials so those can be hosted online.  -->
+<!-- This is the main course file for MTH 496 Groups and Geometry.  It is used to generate all the public facing course materials so those can be hosted online.  -->
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude">
   <!-- Include common macros etc: -->
   <xi:include href="./docinfo.ptx" />
@@ -27,7 +27,7 @@
       <introduction>
         <p>
           The following notes are intended to remind you what we covered each week.
-          They are not a substitute for attending class and not a substitute for reading the textbook.
+          They are not a substitute for attending class or reading recommended references.
         </p>
       </introduction>
 
@@ -62,7 +62,6 @@
     <chapter xml:id="homework">
       <title>Homework</title>
 
-      <p>This is a paragraph with <m>M^at_h</m>.</p>
 
       <!-- Include homework files -->
       <!--<xi:include href="./homework/homework01.ptx"/>-->
