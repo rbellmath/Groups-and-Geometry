@@ -7,7 +7,6 @@
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
     <title>Groups and Geometry</title>
-
     <subtitle>MTH 496 Capstone in Mathematics Fall 2026</subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
@@ -26,8 +25,9 @@
 
       <introduction>
         <p>
-          The following notes are intended to remind you what we covered each week.
-          They are not a substitute for attending class or reading recommended references.
+          The following notes are intended to remind you what we have been studying during
+          lectures.  They are not a substitute for attending class nor for reading the recommended 
+          references.
         </p>
       </introduction>
 
@@ -36,7 +36,6 @@
       <!-- etc. -->
 
     </chapter>
-
 
     <chapter xml:id="activities">
       <title>In-Class Activities</title>
@@ -55,20 +54,29 @@
 
     <chapter xml:id="handouts">
       <title>Handouts</title>
+      <introduction>
+        <p>
+          These are copies of handouts distributed during lectures.
+        </p>
+      </introduction>
       <!-- Include handouts -->
-      <!--<xi:include href="./handouts/handout-filename.ptx"/>-->
+      <!--xi:include href="./handouts/handout-filename.ptx"-->
     </chapter>
 
     <chapter xml:id="homework">
       <title>Homework</title>
 
+      <introduction>
+        <p>
+          Homework assignments are found here.
+        </p>
+      </introduction>
 
       <!-- Include homework files -->
-      <!--<xi:include href="./homework/homework01.ptx"/>-->
-
+      <!--xi:include href="./homework/homework01.ptx"-->
     </chapter>
 
     <!-- Include additional chapters for other categories -->
 
-    </book>
-  </pretext>
+  </book>
+</pretext>
