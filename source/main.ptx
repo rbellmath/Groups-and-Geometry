@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- This is the main course file for MTH 496 Groups and Geometry.  It is used to generate all the public facing course materials so those can be hosted online.  -->
+<!-- This is the main course file for MTH 496 Groups and Geometry.  It is used 
+to generate all the public facing course materials so those can be hosted 
+online.  -->
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude">
   <!-- Include common macros etc: -->
   <xi:include href="./docinfo.ptx" />
-  <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
+  <!-- By creating a PreTeXt "book" for the course, we can split components 
+  into "chapters" -->
   <book>
     <title>Groups and Geometry</title>
     <subtitle>MTH 496 Capstone in Mathematics Fall 2026</subtitle>
@@ -17,7 +20,8 @@
 
       <!-- Course syllabus -->
       <xi:include href="./syllabus/syllabus.ptx" />
-      <!-- Other documents could go here, like a schedule, project description, etc. -->
+      <!-- Other documents could go here, like a schedule, project 
+      description, etc. -->
     </chapter>
 
     <chapter xml:id="course-notes">
@@ -25,9 +29,9 @@
 
       <introduction>
         <p>
-          The following notes are intended to remind you what we have been studying during
-          lectures.  They are not a substitute for attending class nor for reading the recommended 
-          references.
+          The following notes are intended to remind you what we have been 
+          studying during lectures.  They are not a substitute for attending 
+          class nor for reading the recommended references.
         </p>
       </introduction>
 
@@ -42,14 +46,16 @@
 
       <introduction>
         <p>
-          These are copies of the in-class activities distributed during the semester.
+          These are copies of the in-class activities distributed during the 
+          semester.
         </p>
       </introduction>
 
       <!-- Remove the example and replace with your own activities -->
       <xi:include href="./activities/01-intro-activity.ptx"/>
 
-      <!-- Add more xi:include files here to include them in the main course -->
+      <!-- Add more xi:include files here to include them in the main 
+      course -->
     </chapter>
 
     <chapter xml:id="handouts">
