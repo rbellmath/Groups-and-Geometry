@@ -6,17 +6,17 @@ var ptx_lunr_docs = [
   "url": "syllabus.html",
   "type": "Section",
   "number": "",
-  "title": "Syllabus",
-  "body": " Syllabus        Course Information  This is the syllabus for course name (MATH xxx, section xxx) for [term] 20xx. It is a [n] credit course.    Instructor  Prof. Lastname, Office Location, prof.lastname@example.edu .    Student Hours  TBD    Class meets  course times and location.    Course Description  course description from catalog    Prerequisite  list of prerequisites    Textbook and course materials   textbook name by textbook author.       Course Overview        Assessments and Grades     "
+  "title": "Course Syllabus",
+  "body": " Course Syllabus   This is the syllabus for Groups and Geometry (MTH 496: Capstone in Mathematics, section 001) for Fall 2026. It is a 3 credit course.This is the course syllabus for MTH 496: Capstone in Mathematics, Fall Term 2026. The topic of this course is Groups and Geometry. This course satisfies the Tier II Writing Requirement (writing within the discipline) for a Bachelor's Degree from MSU. A recurring theme will be the interconnectedness of the core courses (MTH 309, 310, 320) required for a degree in mathematics.     Course Information      Instructor  Dr. Robert Bell, C-305 Wells Hall, bellro@msu.edu .    Office Hours  TBD (check back for updates)    Class Meetings  TR 10:20 -- 11:40 a.m. in A-330 WH    Course Description  This is an introduction to geometrical transformations, e.g., translations, rotations, and reflections, in Euclidean, spherical, and hyperbolic geometry. Groups of such isometric transformations can be studied using abstract group theory, leading to an understanding of these three geometries are related. Later in the course, we will learn how discrete groups can be studied using geometric techniques. Throughout, students will practice writing within the discipline of mathematics.    Prerequisites  Students are expected to have studied linear algebra, abstract algebra, and analysis at an introductory level (such as MTH 309, 310, and 320). Familiarity with group theory is not assumed.    Textbook and course materials  No textbook is required. Suggested references will be provided in the course notes.       Course Overview        Assessments and Grades  Grades will be determined using the following summative assessments.   Short Quizzes (30%)  Short (20 minute) quizzes will be administered on a regular basis during class meetings.    Presentations (30%)  Each student will give two short presentations to an audience of peers.    Written report (40%)  Each student will submit a written report that will be graded at regular intervals to assess progress and improvements.      "
 },
 {
-  "id": "sec-course-info-2",
+  "id": "syllabus-2-1",
   "level": "2",
-  "url": "syllabus.html#sec-course-info-2",
+  "url": "syllabus.html#syllabus-2-1",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "course name (MATH xxx, section xxx) "
+  "body": "Groups and Geometry (MTH 496: Capstone in Mathematics, section 001) "
 },
 {
   "id": "notes-week-01",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "",
   "title": "Handouts",
-  "body": " Handouts    "
+  "body": " Handouts   These are copies of handouts distributed during lectures.     "
 },
 {
   "id": "homework",
@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "",
   "title": "Homework",
-  "body": " Homework    "
+  "body": " Homework   Homework assignments are found here.     "
 }
 ]
 
