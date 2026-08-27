@@ -4,19 +4,21 @@
   <title>Course Syllabus</title>
 
   <introduction>
-    <p>This is the syllabus for <term>Groups and Geometry (MTH 496: Capstone 
-    in Mathematics, section 001)</term> for Fall 2026.  It is a 3 credit 
-    course.This is the course syllabus for MTH 496: Capstone in Mathematics,
-    Fall Term 2026.  The topic of this course is Groups and Geometry.  This 
-    course satisfies the Tier II Writing Requirement (writing within the 
-    discipline) for a Bachelor's Degree from MSU.  A recurring theme will be 
-    the interconnectedness of the core courses (MTH 309, 310, 320) required 
-    for a degree in mathematics.
+    <p><term>Groups and Geometry (MTH 496: Capstone 
+    in Mathematics, section 001) for Fall 2026</term>.</p>
+
+    <p>The topic of this course is the interplay between geometric symmetry
+    and algebraic objects (abstract groups) which are ideally suited for the
+    study of symmetry.  This course is designed to satisfies the Tier II
+    Writing Requirement (writing within the discipline) for a Bachelor's
+    Degree from MSU.  A recurring theme will be the interconnectedness of the
+    core courses (MTH 309, 310, 320) required for a degree in mathematics.
     </p>
   </introduction>
+
   <!-- Include chapters -->
   <subsection xml:id="sec-course-info">
-    <title>Course Information</title>
+    <title>Basic Information</title>
 
     <p>
       <!-- use a description list (dl) for short items -->
@@ -25,8 +27,7 @@
           <title>Instructor</title>
 
           <p>
-            Dr. Robert Bell, C-305 Wells Hall, 
-            <url href="mailto:bellro@msu.edu">bellro@msu.edu</url>.
+            Dr. Robert Bell (bellro@msu.edu).
           </p>
         </li>
 
@@ -34,7 +35,15 @@
           <title>Office Hours</title>
 
           <p>
-            TBD (check back for updates)
+            TBD; either Tuesday or Thursday
+          </p>
+        </li>
+
+        <li>
+          <title>Office Location</title>
+
+          <p>
+            C-305 Wells Hall
           </p>
         </li>
 
@@ -67,7 +76,8 @@
           <p>
             Students are expected to have studied linear algebra, abstract
             algebra, and analysis at an introductory level (such as MTH 309,
-            310, and 320).  Familiarity with group theory is not assumed.  
+            310, and 320, respectively).  Familiarity with group theory is
+            not assumed.
           </p>
         </li>
 
