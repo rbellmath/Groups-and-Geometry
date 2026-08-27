@@ -41,40 +41,12 @@ online.  -->
 
     </chapter>
 
-    <chapter xml:id="activities">
-      <title>In-Class Activities</title>
-
-      <introduction>
-        <p>
-          These are copies of the in-class activities distributed during the 
-          semester.
-        </p>
-      </introduction>
-
-      <!-- Remove the example and replace with your own activities -->
-      <xi:include href="./activities/01-intro-activity.ptx"/>
-
-      <!-- Add more xi:include files here to include them in the main 
-      course -->
-    </chapter>
-
-    <chapter xml:id="handouts">
-      <title>Handouts</title>
-      <introduction>
-        <p>
-          These are copies of handouts distributed during lectures.
-        </p>
-      </introduction>
-      <!-- Include handouts -->
-      <!--xi:include href="./handouts/handout-filename.ptx"-->
-    </chapter>
-
     <chapter xml:id="homework">
       <title>Homework</title>
 
       <introduction>
         <p>
-          Homework assignments are found here.
+          Homework assignments will be added at a later time.
         </p>
       </introduction>
 
