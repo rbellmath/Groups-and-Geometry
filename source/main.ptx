@@ -41,18 +41,8 @@ online.  -->
 
     </chapter>
 
-    <chapter xml:id="homework">
-      <title>Homework</title>
 
-      <introduction>
-        <p>
-          Homework assignments will be added at a later time.
-        </p>
-      </introduction>
-
-      <!-- Include homework files -->
-      <!--xi:include href="./homework/homework01.ptx"-->
-    </chapter>
+    
 
     <!-- Include additional chapters for other categories -->
 
