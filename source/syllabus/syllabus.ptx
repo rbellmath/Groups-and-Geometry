@@ -7,12 +7,20 @@
     <p><term>Groups and Geometry (MTH 496: Capstone 
     in Mathematics, section 001) for Fall 2026</term>.</p>
 
-    <p>The topic of this course is the interplay between geometric symmetry
-    and the algebraic objects (abstract groups) which are ideally suited for 
-    the study of symmetry.  This course is designed to satisfies the Tier II
-    Writing Requirement (writing within the discipline) for a Bachelor's
-    Degree from MSU.  A recurring theme will be the interconnectedness of the
-    core courses (MTH 309, 310, 320) required for a degree in mathematics.
+    <p>This course is an introduction to the interplay between two fundamental
+    fields of mathematics: geometry and group theory.  The primary connection
+    is that the language of group theory is ideal for describing the symmetries
+    of geometric objects.
+    </p>
+    
+    <p>This course is designed to satisfy MSU's Tier II Writing Requirement 
+    (writing within the academic discipline).  Learning how to effectively
+    communicate mathematics in a written format is a primary learning goal.
+    </p>
+    
+    <p>As a capstone course, a recurring theme will be the interconnectedness 
+    of the core courses (e.g., MTH 309, 310, 320) required of all majors in the
+    mathematical sciences.
     </p>
   </introduction>
 
@@ -25,7 +33,6 @@
       <dl>
         <li>
           <title>Instructor</title>
-
           <p>
             Dr. Robert Bell (bellro@msu.edu).
           </p>
@@ -33,15 +40,13 @@
 
         <li>
           <title>Office Hours</title>
-
           <p>
-            TBD; either Tuesdays or Thursdays
+            TBD; likely Tuesday or Thursday afternoon
           </p>
         </li>
 
         <li>
           <title>Office Location</title>
-
           <p>
             C-305 Wells Hall
           </p>
@@ -49,9 +54,8 @@
 
         <li>
           <title>Class Meetings</title>
-
           <p>
-            TR 10:20 -- 11:40 a.m. in A-330 WH
+            TR 10:20-11:40 AM in A-330 WH
           </p>
         </li>
       </dl>
