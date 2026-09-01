@@ -3,9 +3,8 @@
 <section xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Syllabus</title>
 
+
   <introduction>
-    <p><term>Groups and Geometry (MTH 496: Capstone 
-    in Mathematics, section 001) for Fall 2026</term>.</p>
   </introduction>
 
   <!-- Include chapters -->
@@ -15,6 +14,21 @@
     <p>
       <!-- use a description list (dl) for short items -->
       <dl>
+        <li>
+          <title>Course Name</title>
+          <p>
+            MTH 496 Capstone in Mathematics:
+          </p>
+          <p>
+            Groups and Geometry
+          </p>
+        </li>
+        <li>
+          <title>Term</title>
+          <p>
+            Fall 2026
+          </p>
+        </li>
         <li>
           <title>Instructor</title>
           <p>
@@ -106,6 +120,26 @@
       those pertaining to you as an individual student, e.g., your
       grade in the course) should be posted to Piazza.  Sign-up using
       the access code “symmetry” and your MSU NetID email.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-learning-objectives">
+    <title>Learning Objectives</title>
+
+    <p>
+      This will be updated soon.
+    </p>  
+      
+    <p>
+      A primary learning objective will be to learn how to effectively 
+      communicate mathematics within the discipline of mathematics.  We will 
+      writing chapters on mathematics, and we will practice delivering short
+      presentations on mathematical topics to an audience of peers.
+    </p>
+
+    <p>
+      Specific learning objectives associated with the topic of groups and
+      geometry will be added soon.
     </p>
   </subsection>
 
@@ -233,6 +267,57 @@
         you will need to also send your Accommodation Letter via AccessMSU.
       </p>
     </subsubsection>
+
+
+    <subsubsection xml:id="subsubsec-academic-honesty">
+      <title>Academic Honesty</title>
+
+      <p>
+        The Department of Mathematics adheres to the 
+        <url href="https://ombud.msu.edu/resources-self-help/academic-integrity">University 
+        policies on academic integrity</url>.  Academic integrity violations 
+        include, but are not limited to the following:
+      </p>
+
+      <p>
+        Using unauthorized materials, devices, websites, or other resources
+        for in-person assessments;
+      </p>
+      
+      <p>
+        Communicating with or receiving assistance from other students during
+        an assessment (including cell phones, smart watches, etc.);
+      </p>
+
+      <p>
+        Sharing, posting, or otherwise distributing assessment questions or
+        content, including through social media or online platforms;
+      </p> 
+
+      <p>
+        Using LLMs or similar generative AI technology to complete 
+        graded assignments;
+      </p>
+      
+      <p>
+        Copying or submitting another's work as your own.
+      </p>
+      
+      <p>
+        Violations of academic integrity may result in a penalty grade, which
+        may include a score of 0 on an assignment or assessments or a failing
+        grade in the course. Additional university sanctions may also apply.
+        Students are responsible for understanding and following both
+        University policies and the specific academic integrity and assessment
+        requirements established for this course. For more information visit
+        the link above to “University policies on academic integrity” hosted by
+        the Office of the University Ombudsperson.  
+      </p>
+    </subsubsection>
+    
+
+
+
 
   </subsection>
 
