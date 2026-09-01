@@ -6,22 +6,6 @@
   <introduction>
     <p><term>Groups and Geometry (MTH 496: Capstone 
     in Mathematics, section 001) for Fall 2026</term>.</p>
-
-    <p>This course is an introduction to the interplay between two fundamental
-    fields of mathematics: geometry and group theory.  The primary connection
-    is that the language of group theory is ideal for describing the symmetries
-    of geometric objects.
-    </p>
-    
-    <p>This course is designed to satisfy MSU's Tier II Writing Requirement 
-    (writing within the academic discipline).  Learning how to effectively
-    communicate mathematics in a written format is a primary learning goal.
-    </p>
-    
-    <p>As a capstone course, a recurring theme will be the interconnectedness 
-    of the core courses (e.g., MTH 309, 310, 320) required of all majors in the
-    mathematical sciences.
-    </p>
   </introduction>
 
   <!-- Include chapters -->
@@ -41,7 +25,7 @@
         <li>
           <title>Office Hours</title>
           <p>
-            TBD; likely Tuesday or Thursday afternoon
+            TBD; likely Thursday before or after class
           </p>
         </li>
 
@@ -66,14 +50,29 @@
     <title>Course Description</title>
 
     <p>
-      This is an introduction to the interplay between geometries
-      (such as Euclidean, spherical, and hyperbolic geometry) and group
-      theory.  In the first part of the course, we will learn how the
-      language and techniques of group theory can be used to classify
-      the symmetries of such geometries.  Later in the course, we will
-      learn how (discrete) groups can themselves be studied as geometric
-      spaces.  Throughout the course, students will practice writing 
-      within the discipline of mathematics.
+      This course is an introduction to the interplay between two fundamental
+      fields of mathematics: geometry and group theory.  The primary connection
+      is that the language of group theory is ideal for describing the symmetries
+      of geometric objects.
+    </p>
+
+    <p>
+      In the first part of the course, we will learn the language and techniques
+      of group theory to classify the symmetries of Euclidean and spherical
+      geometry.  Later in the course, we will learn how (discrete) groups can 
+      themselves be studied as geometric spaces.
+    </p>
+    
+    <p>
+      Throughout the course, students will practice writing within the
+      discipline of mathematics. Learning how to effectively communicate 
+      mathematics in a written format is a primary learning goal.
+    </p>
+    
+    <p>
+      As a capstone course, a recurring theme will be the interconnectedness 
+      of the core courses (e.g., MTH 309, 310, 320) required of all majors in
+      the mathematical sciences.
     </p>
   </subsection>
       
@@ -82,10 +81,10 @@
     <title>Prerequisites</title>
                 
     <p>
-      Students are expected to have studied linear algebra, abstract
-      algebra, and analysis at an introductory level (such as MTH 309,
-      310, and 320, respectively).  Familiarity with group theory is
-      not assumed.
+      Students are expected to have studied linear algebra (MTH 309) at an 
+      introductory level.  Some experience with abstract algebra (MTH 310)
+      and analysis (MTH 320) is important for understanding how write correct
+      mathematical proofs of theorems in this course.
     </p>
   </subsection>
       
@@ -93,8 +92,8 @@
     <title>Textbook and course materials</title>
 
     <p>
-      No textbook is required.  Suggested references will
-      be provided.  Course notes will be shared.
+      No textbook is required.  Suggested references will be provided. 
+      Course notes will be shared at regular intervals.
     </p>
   </subsection>
 
@@ -118,34 +117,35 @@
   
       <dl>
         <li>
-          <title>Short Quizzes (30%)</title>
+          <title>Quizzes (30%)</title>
           <p>
-            Quizzes (25 minutes) be be given (roughly) every
-            other week.  This will occur during class.
+            Quizzes will be be given (roughly) every other week.  These will
+            occur during class.  The topic of the quiz will be announced in
+            advance.
           </p>
         </li>
 
         <li>
           <title>Presentations (30%)</title>
           <p>
-            Each student will give two presentations to an audience of
-            peers from this class.  This will occur outside of class.
+            Each student will give two presentations to an audience of peers
+            from this class.  Presentations will occur outside of class.  A
+            grading rubric will be provided in advance.
           </p>
         </li>
 
         <li>
           <title>Written report (40%)</title>
           <p>
-            Each student will submit a written report that will be
-            graded at regular intervals to assess progress and 
-            improvements.  Students will be interviewed by the instructor
-            to assess their understanding.
+            Each student will write a written report that will be graded at
+            regular intervals to assess progress and improvements.  Students 
+            will be interviewed by the instructor to assess their 
+            understanding.
           </p>
         </li>
       </dl>
     </p>
   </subsection>
-
 
   <subsection xml:id="subsec-policies">
     <title>Course Policies</title>
@@ -161,6 +161,81 @@
         and check Piazza for updates and references to materials posted on D2L.
       </p>
     </subsubsection>
+
+    <subsubsection xml:id="subsubsec-use-of-devices">
+      <title>Use of Cell Phones and Other Devices</title>
+      
+      <p>
+        Use of cell phones, tablets, laptops, and similar electronic devices
+        are not permitted during class except for the purpose of note taking.
+        Students must be engaged with the class and not be distracted by
+        personal matters, work for this or another courses during class 
+        meetings.  If you need to take an emergency call or text, please step
+        outside and return when you can.
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsubsec-use-of-LLMs">
+      <title>Use of LLMs or Similar Generative AI Technology</title>
+
+      <p>
+        Using Large Language Models (LLMs) or similar generative AI technology
+        to assist with assignments is not permitted.  One exception is that
+        you may use generative AI chatbots to search for relevant literature.
+        Anoher exception is that you may use such tools to help you prepare for
+        quizzes, for example to generate exercises. The use of such technology
+        to produce any text for the body of your written report is explicitly
+        forbidden.
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsubsec-no-recordings">
+      <title>Recordings</title>
+
+      <p>
+        Students are not permitted to make recordings during lecture without
+        permission from the instructor. Students are expected to follow
+        appropriate University policies and maintain the security of passwords
+        used to access any recorded instructional videos that may be shared
+        on D2L or MSU's MediaSpace. Recordings may not be reproduced, shared
+        with those not enrolled in the class, nor uploaded to another online
+        environment. Doing so may result in disciplinary or legal action.
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsubsec-RCPD-and-AccessMSU">
+      <title>RCPD and AccessMSU</title>
+      
+      <p>
+        Michigan State University is committed to providing access and
+        inclusion in all programs, services and activities. Disabled persons
+        should contact the Resource Center for Persons with Disabilities (RCPD)
+        at 517-884-RCPD or by visiting RCPD’s website to request
+        accommodations. Additional communication between the student,
+        instructor, and RCPD specialist may be necessary to ensure an
+        accessible classroom experience.
+      </p>
+
+      <p>
+        Please send your Accommodation Letter to your instructor as soon as
+        possible so they can ensure proper facilitation of accommodations.
+        Accommodation Letters are generated and sent from within the AccessMSU
+        student portal. Accommodations are not required to be provided prior
+        to receiving the letter. Students should share their testing
+        accommodation with their instructor at least 7 days prior to the need
+        for the accommodation.
+      </p>
+
+      <p>
+        Note: Students affiliated with RCPD prior to June 1, 2026 may have
+        existing Accommodation Letters that were previously sent via email
+        communication with instructors. I can still accept these letters, but
+        you will need to also send your Accommodation Letter via AccessMSU.
+      </p>
+    </subsubsection>
+
   </subsection>
+
+  
   
 </section>
