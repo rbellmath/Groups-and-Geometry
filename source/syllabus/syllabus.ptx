@@ -39,14 +39,15 @@
         <li>
           <title>Office Hours</title>
           <p>
-            TBD; likely Thursday before or after class
+            M 1-2 PM and W 9-10 AM in W-26C Holmes and
+            by appointment in C-305 Wells 
           </p>
         </li>
 
         <li>
-          <title>Office Location</title>
+          <title>Office Locations</title>
           <p>
-            C-305 Wells Hall
+            C-305 Wells Hall and W-26C Holmes Hall
           </p>
         </li>
 
@@ -66,12 +67,14 @@
     <p>
       This course is an introduction to the interplay between two fundamental
       fields of mathematics: geometry and group theory.  The primary connection
-      is that the language of group theory is ideal for describing the symmetries
+      is that the language of group theory is ideal for describing the
+      symmetries
       of geometric objects.
     </p>
 
     <p>
-      In the first part of the course, we will learn the language and techniques
+      In the first part of the course, we will learn the language and
+      techniques
       of group theory to classify the symmetries of Euclidean and spherical
       geometry.  Later in the course, we will learn how (discrete) groups can 
       themselves be studied as geometric spaces.
@@ -127,20 +130,65 @@
     <title>Learning Objectives</title>
 
     <p>
-      This will be updated soon.
+      <ul>
+        <li>
+          <p>
+            Gain an understanding of how groups arise from geometric
+             transformations.
+          </p>
+        </li>
+        <li>
+          <p>
+            Develop proficiency in working with group actions.
+          </p>
+        </li>
+        <li>
+          <p>
+            Develop familiarity with at least two non-Euclidean geometries.
+          </p>
+        </li>
+        <li>
+          <p>
+            Develop proficiency in working with presentations of
+            groups and their graphs.
+          </p>
+        </li>
+        <li>
+          <p>
+            Gain experience with using geometric methods to
+            study finitely presented groups.
+          </p>
+        </li>
+        <li>
+          <p>
+            Gain experience with writing mathematics for mathematicians.
+          </p>
+        </li>
+        <li>
+          <p>
+            Gain experience with writing mathematics for non-experts.
+          </p>
+        </li>
+        <li>
+          <p>
+            Develop proficiency with the basics of writing documents
+            in LaTeX.
+          </p>
+        </li>
+        <li>
+          <p>
+            Gain experience with searching the mathematics literature
+            and writing a bibliography.
+          </p>
+        </li>
+        <li>
+          <p>
+            Gain experience with presenting mathematics to an audience
+            of non-experts.
+          </p>
+        </li>
+      </ul>
     </p>  
-      
-    <p>
-      A primary learning objective will be to learn how to effectively 
-      communicate mathematics within the discipline of mathematics.  We will 
-      writing chapters on mathematics, and we will practice delivering short
-      presentations on mathematical topics to an audience of peers.
-    </p>
-
-    <p>
-      Specific learning objectives associated with the topic of groups and
-      geometry will be added soon.
-    </p>
   </subsection>
 
   <subsection xml:id="subsec-assessments">
